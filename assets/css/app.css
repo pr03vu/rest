@@ -1,0 +1,7 @@
+@import "~bootstrap/dist/css/bootstrap-reboot.min.css";
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~bootstrap/dist/css/bootstrap-grid.css";
+
+h1 {
+    margin: 50px 0;
+}
